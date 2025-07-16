@@ -1,0 +1,17 @@
+{{/* recent NUM SECTION
+     Usage:  {{< recent 3 "articles" >}}
+     Shows NUM newest pages from SECTION in
+     "Titel — Medium — Datum"-Format                    */}}
+
+{{- $num     := .Get 0 | default 3 -}}
+{{- $section := .Get 1 | default "articles" -}}
+
+<ul class="recent-list">
+  {{ range first $num ( where site.RegularPages "Section" $section ) }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      · {{ with .Params.medium }}{{ . }} ·{{ end }}
+      {{ .Date.Format "02 Jan 2006" }}
+    </li>
+  {{ end }}
+</ul>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Events on Nico Schmidt – Investigativer Journalist</title>
+    <link>http://localhost:1313/events/</link>
+    <description>Recent content in Events on Nico Schmidt – Investigativer Journalist</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 13 Jun 2025 11:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KI-Kontrolle: Wer beobachtet dich wirklich?</title>
+      <link>http://localhost:1313/events/zegfestival/</link>
+      <pubDate>Fri, 13 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/zegfestival/</guid>
+      <description>KI-Überwachung enthüllen - vom Fußballstadium bis zum Arbeitsplatz</description>
+    </item>
+    <item>
+      <title>Wie man in Zeiten des Verteidigungsbooms die Rüstungsindustrie recherchiert</title>
+      <link>http://localhost:1313/events/dataharvest-defense/</link>
+      <pubDate>Sat, 24 May 2025 13:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/dataharvest-defense/</guid>
+      <description>Firmennetzwerke und Lieferketten der Rüstungskonzerne aufdecken</description>
+    </item>
+    <item>
+      <title>KI-Überwachung: Schlupflöcher im EU-AI-Act aufdecken</title>
+      <link>http://localhost:1313/events/dataharvest-ai/</link>
+      <pubDate>Fri, 23 May 2025 16:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/dataharvest-ai/</guid>
+      <description>Von Gesichtserkennung bis Mitarbeiter-Tracking: Tools &amp;amp; FOI-Tricks</description>
+    </item>
+  </channel>
+</rss>

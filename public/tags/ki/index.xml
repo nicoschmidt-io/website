@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KI on Nico Schmidt – Investigativer Journalist</title>
+    <link>http://localhost:1313/tags/ki/</link>
+    <description>Recent content in KI on Nico Schmidt – Investigativer Journalist</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Act: Wie die Ausnahmen in die Verordnung kamen</title>
+      <link>http://localhost:1313/articles/aiact-ausnahmen/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/aiact-ausnahmen/</guid>
+      <description>Der AI Act soll riskante KI-Systeme in der EU verbieten, doch interne Verhandlungsprotokolle zeigen, wie vor allem Frankreich zahlreiche Ausnahmen durchsetzte. Polizei und Grenzschutz dürfen trotz Verbots weiterhin Gesichts- und Emotionserkennung einsetzen, wenn sie sich auf „nationale Sicherheit“ berufen. Eine von Paris angeführte Staatengruppe (u. a. Italien, Schweden, Finnland) lockerte das Echtzeit-Verbot und erlaubte den Einsatz bei 16 Straftaten, darunter „Umweltkriminalität“. Private Firmen oder Drittstaaten dürfen Behörden Daten liefern, was Juristen als Verstoß gegen EU-Recht werten. Auch das Verbot biometrischer Kategorisierung wurde für Strafverfolger aufgeweicht. Zudem erlaubt eine Selbstzertifizierung, dass Anbieter selbst entscheiden, ob ihr System „Hochrisiko“ ist – der juristische Dienst des EU-Parlaments hält das für problematisch. Kritiker warnen vor dem „Ende der Anonymität“ im öffentlichen Raum und sehen Grundrechte unzureichend geschützt.</description>
+    </item>
+  </channel>
+</rss>

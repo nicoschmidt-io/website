@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Articles on Nico Schmidt – Investigativer Journalist</title>
+    <link>http://localhost:1313/articles/</link>
+    <description>Recent content in Articles on Nico Schmidt – Investigativer Journalist</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>de</language>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Die diskreten Geschäfte von Rheinmetall</title>
+      <link>http://localhost:1313/articles/rheinmetalldenel/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/rheinmetalldenel/</guid>
+      <description>Der Rüstungskonzern Rheinmetall verdient mittlerweile Milliarden mit Aufträgen westlicher Staaten, baut zugleich aber diskret sein Geschäft in Ländern außerhalb der Nato aus. So entsteht in Himachal Pradesh (Indien) mit dem lokalen Hersteller SMPP eines der größten Munitionswerke des Landes; Rheinmetall lieferte 2023 per Rahmenvertrag Maschinen und Know-how. Möglich macht das die südafrikanische Tochter Rheinmetall Denel Munition, die weltweit bereits fast 40 Produktionsanlagen eingerichtet hat, u. a. in Ägypten, Saudi-Arabien, Argentinien und China.
+Weil die Deals von Südafrika oder Indien aus abgewickelt werden, greifen deutsche Exportkontrollen nicht: Der Endverbleib der Munition bleibt unbeaufsichtigt. Kritiker werfen dem Konzern vor, Profite über Menschenrechte zu stellen und Konflikte anzuheizen. Ein geplantes Rüstungsexportkontrollgesetz der Ampel, das Auslandsinvestitionen hätte regulieren können, scheiterte, während sich der Rheinmetall-Aktienkurs seit Kriegsbeginn in der Ukraine verzehnfacht hat.</description>
+    </item>
+    <item>
+      <title>Illegale Exporte, hohe Profite</title>
+      <link>http://localhost:1313/articles/flugzeug-exporte/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/flugzeug-exporte/</guid>
+      <description>D Der burgenländische Unternehmer Markus K. soll gemeinsam mit einem indischen Geschäftspartner westliche Flugzeug- und Helikopterteile – darunter ein 72.000-US-Dollar-Kurs-Lage-Referenzsystem (AHRS) – in den USA eingekauft und via Indien nach Russland weitergeleitet haben. Laut US-Ermittlungsakten, die Investigate Europe und Der Standard einsehen konnten, bot K. das AHRS seinem russischen Kontakt Jewgeni B. bereits für 152.000 Dollar an. Über das indische Zwischenunternehmen seien zwischen Sommer 2023 und Herbst 2024 mehr als 50 Lieferungen im Wert von sechs Millionen Dollar an einen einzigen russischen Abnehmer gegangen; insgesamt lassen sich über 700 mutmaßlich sanktionswidrige Lieferungen westlicher Hersteller nach Russland nachvollziehen. K. bestreitet jeden Vorsatz und verweist auf Unkenntnis des Endziels. Sein Partner sitzt in den USA in Untersuchungshaft und droht bis zu 60 Jahre Haft. Auch in Österreich könnten Außenwirtschafts- und Sanktionsgesetz greifen; K. liquidiert inzwischen seine Firma und hat eine Sachverhaltsdarstellung bei der Staatsanwaltschaft eingebracht.</description>
+    </item>
+    <item>
+      <title>AI Act: Wie die Ausnahmen in die Verordnung kamen</title>
+      <link>http://localhost:1313/articles/aiact-ausnahmen/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/aiact-ausnahmen/</guid>
+      <description>Der AI Act soll riskante KI-Systeme in der EU verbieten, doch interne Verhandlungsprotokolle zeigen, wie vor allem Frankreich zahlreiche Ausnahmen durchsetzte. Polizei und Grenzschutz dürfen trotz Verbots weiterhin Gesichts- und Emotionserkennung einsetzen, wenn sie sich auf „nationale Sicherheit“ berufen. Eine von Paris angeführte Staatengruppe (u. a. Italien, Schweden, Finnland) lockerte das Echtzeit-Verbot und erlaubte den Einsatz bei 16 Straftaten, darunter „Umweltkriminalität“. Private Firmen oder Drittstaaten dürfen Behörden Daten liefern, was Juristen als Verstoß gegen EU-Recht werten. Auch das Verbot biometrischer Kategorisierung wurde für Strafverfolger aufgeweicht. Zudem erlaubt eine Selbstzertifizierung, dass Anbieter selbst entscheiden, ob ihr System „Hochrisiko“ ist – der juristische Dienst des EU-Parlaments hält das für problematisch. Kritiker warnen vor dem „Ende der Anonymität“ im öffentlichen Raum und sehen Grundrechte unzureichend geschützt.</description>
+    </item>
+  </channel>
+</rss>

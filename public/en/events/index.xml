@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Events on Nico Schmidt – Investigativer Journalist</title>
+    <link>http://localhost:1313/en/events/</link>
+    <description>Recent content in Events on Nico Schmidt – Investigativer Journalist</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Jun 2025 11:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Surveillance: Who’s Really Watching You?</title>
+      <link>http://localhost:1313/en/events/zegfestival/</link>
+      <pubDate>Fri, 13 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/events/zegfestival/</guid>
+      <description> Expose AI surveillance from football stadiums to workplaces</description>
+    </item>
+    <item>
+      <title>How to research the arms industry in times of defence boom</title>
+      <link>http://localhost:1313/en/events/dataharvest-defense/</link>
+      <pubDate>Sat, 24 May 2025 13:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/events/dataharvest-defense/</guid>
+      <description>‘Exposing the corporate networks and supply chains of arms companies’</description>
+    </item>
+    <item>
+      <title>Watching the Watchers: AI Surveillance &amp; EU Act Loopholes</title>
+      <link>http://localhost:1313/en/events/dataharvest-ai/</link>
+      <pubDate>Fri, 23 May 2025 16:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/events/dataharvest-ai/</guid>
+      <description>Uncover hidden AI surveillance under the EU Act&amp;#39;s loopholes</description>
+    </item>
+  </channel>
+</rss>

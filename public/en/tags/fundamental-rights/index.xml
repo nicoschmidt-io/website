@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fundamental Rights on Nico Schmidt – Investigativer Journalist</title>
+    <link>http://localhost:1313/en/tags/fundamental-rights/</link>
+    <description>Recent content in Fundamental Rights on Nico Schmidt – Investigativer Journalist</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/fundamental-rights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Act: How the loopholes ended up in the AI Regulation</title>
+      <link>http://localhost:1313/en/articles/aiact-loopholes/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/articles/aiact-loopholes/</guid>
+      <description>The EU’s AI Act aims to ban “unacceptable-risk” AI, yet leaked COREPER papers show France engineered major loopholes. Police and border guards may keep using facial and emotion recognition under a national-security clause. Backed by Italy, Sweden, Finland and others, Paris ensured real-time facial recognition stays legal for 16 offences (including “environmental crime”) and could be widened. Another article lets authorities source data from private firms or third countries, a move legal experts say clashes with EU court rulings. The ban on biometric categorisation was likewise softened for law-enforcement use. A late self-certification clause allows vendors to decide if their tools are “high risk”, undermining oversight according to the European Parliament’s legal service. Civil-rights groups fear mass surveillance and say the Act prioritises Europe’s AI market over privacy.</description>
+    </item>
+  </channel>
+</rss>

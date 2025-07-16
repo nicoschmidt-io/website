@@ -1,0 +1,9 @@
+<ul class="event-list">
+  {{ range sort (where site.RegularPages "Type" "events") "Date" "desc" | first 5 }}
+    <li>
+      <strong>{{ .Date.Format "02 Jan 2006" }}</strong> ·
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ with .Params.location }}{{ . }} ·{{ end }}
+    </li>
+  {{ end }}
+</ul>

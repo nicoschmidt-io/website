@@ -1,0 +1,179 @@
+
+:root {
+  --primary:  #242a49;
+  --content:  #242a49;
+}
+
+/* ─────────────────────────────────────────────────────
+   3. Schriftarten (damit wir sicher sind)
+──────────────────────────────────────────────────────── */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Montserrat:wght@400;600;700&family=Fira+Code:wght@400;500;700&display=swap");
+
+body, html body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: #242a49;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", system-ui, -apple-system, sans-serif;
+  font-weight: 600;
+}
+
+/* Hover-Farbe für sichtbare Links */
+.entry-title a:hover,
+.entry-content a:hover,
+.read-more a:hover,
+.post-content a:hover,
+.nav a:hover,
+.footer a:hover,
+a:hover {
+  color: #FF2D66 !important;
+  border-color: #FF2D66 !important;
+  text-decoration-color: #FF2D66 !important;
+  box-shadow: 0 1px 0 #FF2D66 !important;
+}
+
+/* Gewellte Linie – immer sichtbar */
+hr {
+  border: none !important;
+  height: 12px !important;
+  background: url("data:image/svg+xml,%3Csvg width='100%' height='12' viewBox='0 0 120 12' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 6 Q5 0 10 6 T20 6 T30 6 T40 6 T50 6 T60 6 T70 6 T80 6 T90 6 T100 6 T110 6 T120 6' fill='transparent' stroke='%23FF2D66' stroke-width='2'/%3E%3C/svg%3E") repeat-x center !important;
+  background-size: auto 12px !important;
+  margin: 2.5rem 0 !important;
+}
+
+/* ────────────────────────────────────────────────────────
+   3) POST SINGLE: HEADER-ZENTRIERUNG & WELLE
+───────────────────────────────────────────────────────── */
+/* Meta-Pseudo-Linie (grau) ausblenden */
+.post-single .entry-header .meta::after {
+  display: none !important;
+}
+
+/* Header zentrieren und Platz für Welle schaffen */
+.post-single .entry-header {
+  position: relative !important;
+  padding-bottom: 1rem !important;
+  text-align: center !important;
+}
+
+/* Welle unter dem Header */
+.post-single .entry-header::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 8px;
+  background: url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' width='20' height='8'>\
+<path d='M0 4 Q5 0 10 4 T20 4' fill='none' stroke='%23FF2D66' stroke-width='2'/>\
+</svg>") repeat-x center !important;
+}
+
+/* Datum/Medium direkt unter der Überschrift ebenfalls zentrieren */
+.post-single .entry-header .meta {
+  margin: 0 auto 1rem !important;
+  text-align: center !important;
+}
+
+/* ─────────────────────────────────────────────────────
+   Abstände im Single-Post Template
+──────────────────────────────────────────────────────── */
+
+/* 1) Mehr Abstand unter dem Header (Überschrift + Meta),
+      damit die Welle nicht direkt am Text klebt */
+.post-single .entry-header {
+  margin-bottom: 2rem;     /* Abstand nach unten */
+  padding-bottom: 1rem;    /* Platz für die Wave-Pseudo-Box */
+}
+
+/* 2) Wellenlinie etwas tiefer setzen */
+.post-single .entry-header::after {
+  bottom: -0.5rem;         /* halbrem höher liegt die Wave tiefer */
+}
+
+/* 3) Lead / Teasertext großzügig absetzen */
+.post-single .lead {
+  margin: 1.5rem 0 2.5rem; /* oben 1.5, unten 2.5 rem */
+}
+
+/* 4) Absätze im Post-Content: genug Luft unten */
+.post-single .post-content p {
+  margin: 0 0 1.5rem;      /* nur unterhalb 1.5 rem */
+  line-height: 1.65;       
+}
+
+/* 5) Read-More-Block schön luftig absetzen */
+.post-single .read-more {
+  margin: 2rem 0;          /* oben & unten jeweils 2 rem */
+}
+
+/* 6) Hover-Link in Read-More bleibt pink, bleibt so */
+/* (nur als Erinnerung – du hattest es schon drin) */
+.post-single .read-more a:hover {
+  color: #FF2D66 !important;
+  border-color: #FF2D66 !important;
+}
+
+/* Bessere Lesbarkeit: Zeilenabstand leicht erhöhen */
+body,
+.post-content p,
+.entry-content,
+.post-single .post-content {
+  line-height: 1.6 !important;
+}
+
+/* List Decoration */
+
+ul.recent-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.recent-list li::before {
+  content: "▸";
+  color: #999;
+  padding-right: 0.5em;
+}
+
+ul.workshop-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.workshop-list li {
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: 0.75em;
+  line-height: 1.4;
+}
+
+ul.workshop-list li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  top: 0.2em;
+  color: #999;
+}
+
+/* ─────────────────────────────────────────────────────
+    Impressum/Datenschutz zentrieren
+──────────────────────────────────────────────────────── */
+.post-content p em {
+  display: block !important;     /* zum Block-Container machen */
+  width: 100% !important;        /* volle Breite erzwingen */
+  text-align: center !important; /* Text mittig ausrichten */
+  margin: 1rem 0 !important;     /* Luft oben und unten */
+}
+
+
+
+/* ────────────────────────────────────────────────────────
+   4) SONSTIGE AUSBLENDUNGEN / UTILITY
+───────────────────────────────────────────────────────── */
+/* Logo- und Site-Titlesteile ausblenden */
+.header .site-title,
+.navbar-brand, .navbar-brand *,
+.brand, .brand *,
+.logo > a {
+  display: none !important;
+

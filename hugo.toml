@@ -1,0 +1,80 @@
+baseURL = "https://nicoschmidt.io/"
+title   = "Nico Schmidt – Investigativer Journalist"
+theme   = "papermod"
+
+# Startseite soll KEINE automatische Artikel-Liste anhängen
+mainSections = []
+
+defaultContentLanguage = "de"
+
+# ─────────────────────────────────────────────────────────────
+[params]
+  ShowLanguageSwitcher = true      
+  ShowLanguageFlag      = true     
+  ShowLanguageName      = true
+  showFlags = true
+
+# ─────────────────────────────────────────────────────────────
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# ─────────────────────────────────────────────────────────────
+ [params.assets]
+  customCSS = ["css/extra.css"]
+
+# ─────────────────────────────────────────────────────────────
+[languages]
+
+  # ── Deutsch ────────────────────────────────────────────────
+  [languages.de]
+    languageName = "Deutsch"
+    flag = "de"
+    languageCode = "de"
+    weight = 1
+
+    [[languages.de.menu.main]]
+      identifier = "articles"
+      name       = "Artikel"
+      url        = "#articles"
+      weight     = 1
+
+    [[languages.de.menu.main]]
+      identifier = "events"
+      name       = "Workshops"
+      url        = "#events"
+      weight     = 2
+
+    [[languages.de.menu.main]]
+      identifier = "contact"
+      name       = "Kontakt"
+      url        = "#contact"
+      weight     = 3
+
+
+  # ── Englisch ───────────────────────────────────────────────
+  [languages.en]
+    languageName = "English"
+    flag = "gb"
+    languageCode = "en"
+    weight = 2      # bestimmt Reihenfolge im Sprachumschalter
+
+    [[languages.en.menu.main]]
+      identifier = "articles"
+      name       = "Articles"
+      url        = "#articles"
+      weight     = 1
+
+    [[languages.en.menu.main]]
+      identifier = "events"
+      name       = "Workshops"
+      url        = "#events"
+      weight     = 2
+
+    [[languages.en.menu.main]]
+      identifier = "contact"
+      name       = "Contact"
+      url        = "#contact"
+      weight     = 3
+

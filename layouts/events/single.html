@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article class="post-single">
+
+  <header class="entry-header">
+    <h1>{{ .Title }}</h1>
+    <p class="meta">{{ .Date.Format "02 Jan 2006" }} · {{ .Params.location }}</p>
+  </header>
+
+  {{/* Lead = erster Absatz oder description */}}
+  {{ $lead := .Params.description | default (.Summary | plainify) }}
+  <p class="lead">{{ $lead }}</p>
+
+  <div class="post-content">
+    {{ .Content | safeHTML }}
+  </div>
+
+</article>
+{{ end }}

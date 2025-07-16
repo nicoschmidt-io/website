@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legals on Nico Schmidt – Investigativer Journalist</title>
+    <link>http://localhost:1313/en/legal/</link>
+    <description>Recent content in Legals on Nico Schmidt – Investigativer Journalist</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/en/legal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legal Notice</title>
+      <link>http://localhost:1313/en/legal/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/legal/impressum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Provider Identification (Sec. 5 German TMG)&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Responsible editor&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Nico Schmidt&lt;/strong&gt; (c/o Publix)  |  Hermannstr. 90, 12051 Berlin, Germany&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;✉ &lt;a href=&#34;mailto:mail@nicoschmidt.io&#34;&gt;mail@nicoschmidt.io&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;VAT ID&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Not applicable (§ 19 UStG)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Hosting provider&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;liability-for-content&#34;&gt;Liability for Content&lt;/h3&gt;
+&lt;p&gt;Under Sec. 7 (1) German TMG I am responsible for my own content; according to Secs. 8–10 TMG I am not obliged to monitor third-party information. Liability arises only from the moment I become aware of a concrete infringement — such content will then be removed immediately.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/en/legal/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/legal/privacy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Last update: 12 Jul 2025&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1--general&#34;&gt;1 · General&lt;/h3&gt;
+&lt;p&gt;This site collects as little personal data as possible. No cookies, no analytics, no third-party trackers.&lt;/p&gt;
+&lt;h3 id=&#34;2--server-logs&#34;&gt;2 · Server logs&lt;/h3&gt;
+&lt;p&gt;When you visit the site, Cloudflare (hosting provider) automatically stores: IP address, date/time, requested file, referrer and user agent. Logs are deleted after 14 days and are not merged with other data.&lt;/p&gt;
+&lt;h3 id=&#34;3--contact-via-e-mail&#34;&gt;3 · Contact via E-mail&lt;/h3&gt;
+&lt;p&gt;If you contact me via Proton Mail, your message is stored solely to process your request and will not be shared with third parties.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

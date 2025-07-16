@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legals on Nico Schmidt – Investigativer Journalist</title>
+    <link>http://localhost:1313/legal/</link>
+    <description>Recent content in Legals on Nico Schmidt – Investigativer Journalist</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/legal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>http://localhost:1313/legal/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/privacy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Stand: 12.07.2025&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1--allgemeine-hinweise&#34;&gt;1 · Allgemeine Hinweise&lt;/h3&gt;
+&lt;p&gt;Diese Website erhebt so wenige personenbezogene Daten wie möglich. Es werden keine Cookies gesetzt und keine Tracking-Dienste verwendet.&lt;/p&gt;
+&lt;h3 id=&#34;2--server-logfiles&#34;&gt;2 · Server-Logfiles&lt;/h3&gt;
+&lt;p&gt;Beim Aufruf der Seite übermittelt Ihr Browser technisch bedingt folgende Daten an Cloudflare (Hosting-Provider):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IP-Adresse, Datum &amp;amp; Uhrzeit, abgerufene Datei, Referrer, User-Agent.&lt;br&gt;
+Diese Logfiles werden nach maximal 14 Tagen automatisch gelöscht und nicht mit anderen Datenquellen zusammengeführt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3--kontaktaufnahme-per-e-mail&#34;&gt;3 · Kontaktaufnahme per E-Mail&lt;/h3&gt;
+&lt;p&gt;Wenn Sie mich per E-Mail (Proton) kontaktieren, speichere ich Ihre Nachricht ausschließlich zur Bearbeitung der Anfrage. Eine Weitergabe an Dritte erfolgt nicht.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/legal/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/impressum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG / § 18 Abs. 2 MStV&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Verantwortlich&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Nico Schmidt&lt;/strong&gt; (c/o Publix)  |  Hermannstr. 90, 12051 Berlin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Kontakt&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;✉ &lt;a href=&#34;mailto:mail@nicoschmidt.io&#34;&gt;mail@nicoschmidt.io&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;USt-ID&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Nicht vorhanden (Kleinunternehmer, § 19 UStG)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Hosting&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;haftung-für-inhalte&#34;&gt;Haftung für Inhalte&lt;/h3&gt;
+&lt;p&gt;Als Diensteanbieter bin ich gemäß § 7 Abs. 1 TMG für eigene Inhalte nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8–10 TMG bin ich jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen. Eine Haftung ist erst ab Kenntnis einer konkreten Rechtsverletzung möglich; bei Bekanntwerden werde ich die betreffenden Inhalte umgehend entfernen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

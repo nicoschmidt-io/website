@@ -1,0 +1,45 @@
+{{/*  layouts/shortcodes/events.html  */}}
+
+{{/* -------- Parameter -----------------------------
+     limit   = Anzahl der Events (0 = alle)
+     future  = true|false  -> auch zukünftige Termine zeigen?
+     past    = true|false  -> vergangene Termine zeigen?
+     class   = optional zusätzliche CSS-Klasse
+   ----------------------------------------------- */}}
+
+{{ $showFuture := .Get "future" | default "true" | eq "true" }}
+{{ $showPast   := .Get "past"   | default "true" | eq "true" }}
+{{ $limit      := (.Get "limit" | default 0) | int }}
+
+{{/* 1 ) passende Seiten sammeln  */}}
+{{ $events := where site.RegularPages "Section" "events" }}
+
+{{/* 2 ) nach Datum sortieren (neueste oben) */}}
+{{ $events = sort $events "Date" "desc" }}
+
+{{/* 3 ) nach Zukunft / Vergangenheit filtern */}}
+{{ $now := now }}
+{{ if not $showFuture }}
+  {{ $events = where $events "Date" "<=" $now }}
+{{ end }}
+{{ if not $showPast }}
+  {{ $events = where $events "Date" ">=" $now }}
+{{ end }}
+
+{{/* 4 ) ggf. limitieren */}}
+{{ if gt $limit 0 }}
+  {{ $events = first $limit $events }}
+{{ end }}
+
+{{/* 5 ) HTML ausgeben – dieselbe Struktur wie zuvor,
+        aber automatisch generiert und mit CSS-Klasse  */}}
+
+<ul class="workshop-list {{ .Get `class` }}">
+  {{ range $events }}
+    <li>
+      {{ .Date.Format "02 Jan 2006" }} ·
+      {{ with .Params.location }}{{ . }} · {{ end }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+  {{ end }}
+</ul>
