@@ -1,6 +1,6 @@
 ---
 title:    "Illegal exports, high profits"
-date:     2025-05-20
+date:     2025-02-20
 medium:   "Der Standard"       
 external_url: "https://www.derstandard.de/consent/tcf/story/3000000257416/illegale-exporte-hohe-profite-wie-ein-burgenlaender-beim-sanktionsbruch-gegen-russland-mitmischte"
 tags:     ["Russia", "Sanctions", "Supply Chains"]
