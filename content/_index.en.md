@@ -11,7 +11,7 @@ I investigate for the European journalism network Investigate Europe, focusing o
 
 My work is published in outlets such as Die Zeit, taz, Der Standard, Republik and Deutschlandfunk.
 
-I am an AI Accountability Fellow at the Pulitzer Center and a member of the Oxford Climate Journalism Network. My reporting has been nominated multiple times for the German Reporterpreis and the European Press Prize. ([↗ Download short CV](/cv/CV_Nico_Schmidt_DE.pdf))
+I am an AI Accountability Fellow at the Pulitzer Center and a member of the Oxford Climate Journalism Network. My reporting has been nominated multiple times for the German Reporterpreis and the European Press Prize. ([↗ Download short CV](/cv/CV_Nico_Schmidt_EN.pdf))
 
 I welcome suggestions, speaking invitations, or collaboration ideas via [↗ Email](mailto:mail@nicoschmidt.io) or [↗ Signal](https://signal.me/#p/+491704844383).
 
