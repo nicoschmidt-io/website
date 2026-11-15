@@ -18,12 +18,12 @@ Ich freue mich über Hinweise, Gesprächsanfragen oder Kooperationsideen per [�
 ---
 
 ## Aktuelle Artikel {#articles}
-{{< recent 3 "articles" >}}
+{{< recent 4 "articles" >}}
 
 ---
 
 ## Workshops {#events}
-{{< events limit="3" future="true" past="true" >}}
+{{< events limit="4" future="true" past="true" >}}
 
 ---
 
