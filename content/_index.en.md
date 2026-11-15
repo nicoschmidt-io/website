@@ -18,12 +18,12 @@ I welcome suggestions, speaking invitations, or collaboration ideas via [↗ Ema
 ---
 
 ## Latest articles {#articles}
-{{< recent 3 "articles" >}}
+{{< recent 4 "articles" >}}
 
 ---
 
 ## Workshops {#events}
-{{< events limit="0" future="true" past="true" >}}
+{{< events limit="4" future="true" past="true" >}}
 
 ---
 
